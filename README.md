@@ -1,6 +1,6 @@
 # Exploit - Buffer Overflow Vulnserver
 
-Exploit didático para explorar o vulnserver rodando no Windows 10 Enterprise (x64) e ganhar reverse shell.
+Exploit didático para explorar o vulnserver rodando no Windows 10 Enterprise (x64) e obter reverse shell.
 
 ## Vulnserver
 https://github.com/stephenbradshaw/vulnserver
